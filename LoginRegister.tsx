@@ -16,7 +16,7 @@ export default function LoginRegister() {
     password: '',
     role: 'user',
   });
-
+//修改修改修改
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };

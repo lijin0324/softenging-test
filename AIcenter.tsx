@@ -20,7 +20,7 @@ import {
   Legend,
 } from 'chart.js';
 import './AIcenter.css';
-
+//修改修改修改
 ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
 
 const { Content } = Layout;

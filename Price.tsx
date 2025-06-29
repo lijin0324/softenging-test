@@ -17,7 +17,7 @@ const fishColors: Record<string, string> = {
   '草鱼': '#2196f3',
   '鲫鱼': '#ff9800',
 };
-
+//修改修改修改
 export default function FishPriceChart() {
   const [fishData, setFishData] = useState<FishPrice[]>([]);
 
