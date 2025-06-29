@@ -6,7 +6,7 @@ import {
 import './LoginRegister.css';
 
 const API_BASE = 'http://localhost:5000/api';
-// 修改修改修改
+
 
 interface FishPrice {
   name: string;
